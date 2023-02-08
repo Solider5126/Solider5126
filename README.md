@@ -7,7 +7,7 @@
 
 </p>
      <h3 align="center">I am a student of the career of
-Software Development. What you like
+Software Development. I like to 
 learn and adapt to the work that
 I am also exercising
 I consider myself a responsible person
