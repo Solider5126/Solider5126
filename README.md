@@ -26,7 +26,6 @@ every day.</h3>
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solider5126&show_icons=true&locale=en" alt="solider5126" /></p>
 
 
 
